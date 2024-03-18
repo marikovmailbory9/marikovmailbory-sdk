@@ -1,0 +1,29 @@
+{
+  "name": "marikovmailbory-sdk",
+  "version": "1.0.0",
+  "description": "marikovmailbory-sdk is a Node.js module that provides functions for working with vibrant colors and image processing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marikovmailbory9/marikovmailbory-sdk"
+  },
+  "dependencies": {
+	  "vl75-comm": "1.0.0",
+"mode-tobogunbar": "1.0.0",
+"carolgonzalez": "1.0.0",
+"squarunblownett-jps": "1.0.0",
+"layer-v11": "1.0.0",
+"sharonhall": "1.0.0",
+    "node-vibrant": "^5.0.0",
+    "sharp": "^0.29.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marikovmailbory9/marikovmailbory-sdk/issues"
+  },
+  "homepage": "https://github.com/marikovmailbory9/marikovmailbory-sdk#readme"
+}
